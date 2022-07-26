@@ -21,3 +21,11 @@ Melhoria 1, melhoria 2
 ##### Combinado
 
 _um **texto** combinado_
+
+### Linguagens do projeto
+
+* HTML
+* CSS
+* JAVASCRIP
+* PHP
+* MySQL
