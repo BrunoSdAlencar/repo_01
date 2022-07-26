@@ -42,3 +42,7 @@ _um **texto** combinado_
 #### Imagem local
 
 ![Logo do Python](img/logo.png)
+
+#### Imagem externa
+
+![Logo do php](https://img2.gratispng.com/20180624/ygl/kisspng-php-computer-icons-logo-filename-extension-php-logo-5b3022cdbb7a50.1988404515298812937679.jpg)
