@@ -52,3 +52,5 @@ _um **texto** combinado_
 [Google](https://www.google.com)
 
 Perfil github https://github.com/BrunoSdAlencar
+
+[![Logo do PHP](https://img2.gratispng.com/20180624/ygl/kisspng-php-computer-icons-logo-filename-extension-php-logo-5b3022cdbb7a50.1988404515298812937679.jpg)](https://github.com/BrunoSdAlencar)
