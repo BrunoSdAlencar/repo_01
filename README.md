@@ -49,5 +49,5 @@ _um **texto** combinado_
 
 ### Inserir links
 
-[Google](www.google.com.br)
+[Google](www.google.com)
 https://github.com/BrunoSdAlencar
